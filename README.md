@@ -2,10 +2,12 @@
  laravel - laravel mix - svelte - tailwindcss - browser sync
  
  
+##Steps that I followed
 1. Create laravel project in current director
 ```
 composer create-project laravel/laravel . --prefer-dist
 ```
+
 2. Node Module
 ```
 npm i
